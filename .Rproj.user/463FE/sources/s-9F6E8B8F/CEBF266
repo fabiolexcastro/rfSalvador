@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552744563773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "CEBF266",
+    "lastKnownWriteTime" : 1552787802,
+    "last_content_update" : 1552787802818,
+    "path" : "D:/_academico/_maestria/_modulos/Modulo_9/_codes/07_mixedCurrent.R",
+    "project_path" : "07_mixedCurrent.R",
+    "properties" : {
+        "cursorPosition" : "49,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

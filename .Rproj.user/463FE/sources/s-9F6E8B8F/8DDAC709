@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552873597058.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "8DDAC709",
+    "lastKnownWriteTime" : 1553049127,
+    "last_content_update" : 1553049127394,
+    "path" : "D:/_academico/_maestria/_modulos/Modulo_9/_codes/10_impactGradient.R",
+    "project_path" : "10_impactGradient.R",
+    "properties" : {
+        "cursorPosition" : "47,42",
+        "scrollLine" : "33",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

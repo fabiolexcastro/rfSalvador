@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552797343872.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B0D7E9DB",
+    "lastKnownWriteTime" : 1552797590,
+    "last_content_update" : 1552797590381,
+    "path" : "D:/_academico/_maestria/_modulos/Modulo_9/_codes/09_modalsFuture.R",
+    "project_path" : "09_modalsFuture.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552787488402.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "966C9D20",
+    "lastKnownWriteTime" : 1552789355,
+    "last_content_update" : 1552789355267,
+    "path" : "D:/_academico/_maestria/_modulos/Modulo_9/_codes/08_mixedFuture.R",
+    "project_path" : "08_mixedFuture.R",
+    "properties" : {
+        "cursorPosition" : "80,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

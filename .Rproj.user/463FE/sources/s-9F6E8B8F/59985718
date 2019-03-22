@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1553219733472.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "59985718",
+    "lastKnownWriteTime" : 1553223793,
+    "last_content_update" : 1553223793675,
+    "path" : "D:/_academico/_maestria/_modulos/Modulo_9/_codes/11_CountimpactGradient.R",
+    "project_path" : "11_CountimpactGradient.R",
+    "properties" : {
+        "cursorPosition" : "37,40",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552448545436.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "FC90C1B0",
+    "lastKnownWriteTime" : 1552448775,
+    "last_content_update" : 1552448775731,
+    "path" : "D:/_academico/_maestria/_modulos/Modulo_9/_codes/05_limitationsCurrent.R",
+    "project_path" : "05_limitationsCurrent.R",
+    "properties" : {
+        "cursorPosition" : "21,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
